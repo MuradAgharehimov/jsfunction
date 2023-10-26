@@ -29531,7 +29531,7 @@ let xyz = [
     },
   ];
   
-  // "1.ID-ə görə ölkəni tapan function yazın."
+  // 1.ID-ə görə ölkəni tapan function yazın.
   
 //   function Country(id) {
 //     console.log(xyz.find((item) => item.id === id).shipAddress.country);
@@ -29539,14 +29539,14 @@ let xyz = [
   
 //   Country(11072);
   
-  // "2.Ölkəyə görə obyekti tapa function yazın."
+  // 2.Ölkəyə görə obyekti tapan function yazın.
   
 //   function CountrObyekt(obyekt) {
 //     console.log(xyz.find((item) => item.shipAddress.country == obyekt));
 //   }
 //   CountrObyekt("Austria");
   
-  // "3.ID-ə görə shipName , Country və City tapan function yazın."
+  // 3.ID-ə görə shipName , Country və City tapan function yazın
   
 //   function Cityfunction(id) {
 //   console.log(xyz.find((item) => item.id === id).shipName);
@@ -29555,14 +29555,14 @@ let xyz = [
 //   }
 //   Cityfunction(11072);
   
-  // "4.ID-ə görə neçə növdə satış edildiyini göstərən function yazın. (details sayı)"
+  // 4.ID-ə görə neçə növdə satış edildiyini göstərən function yazın.detalis say
   
 //   function Store(id) {
 //     console.log(xyz.find((item) => item.id == id).details.length);
 //   }
 //   Store(11072)
   
-  // "5.ID-görə bir obyektin toplam qazancını tapan function yazın. (discount daxil)"
+  // 5.ID-görə bir obyektin toplam qazancını tapan function yazın. (discount daxil)
   
 //   function Total(id){
 //           let object = xyz.find(item => item.id == id);
